@@ -4,7 +4,7 @@ I am a second-year Computer Science student at McMaster University, passionate a
 
 ## About Me
 
-- 🎓 Studying Computer Science at McMaster University 🇨🇦.
+- 🎓 Studying Computer Science at McMaster University 🍁.
 - 🔭 I’m currently working on a [web based photo editor](https://github.com/PavlosDefoort/PhotoProX) using Next.js
 - 💻 Interested in Web Development and Software Engineering.
 - 🌱 Always eager to learn and explore new technologies.
