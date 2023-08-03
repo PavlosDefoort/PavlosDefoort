@@ -27,7 +27,7 @@ I am a second-year Computer Science student at McMaster University, passionate a
 
 ## Get In Touch
 
-- 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pavlos-defoort-04a93b223/)
+- 🌐 LinkedIn: [Pavlos Defoort](https://www.linkedin.com/in/pavlos-defoort-04a93b223/)
 
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or if you'd like to collaborate on a project. Let's connect and create something awesome together! 😄
