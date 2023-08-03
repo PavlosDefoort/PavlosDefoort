@@ -4,7 +4,7 @@ I am a second-year Computer Science student at McMaster University, passionate a
 
 ## About Me
 
-- 🎓 Studying Computer Science at McMaster University🇨🇦.
+- 🎓 Studying Computer Science at McMaster University 🇨🇦.
 - 🔭 I’m currently working on a web based photo editor using Next.js
 - 💻 Interested in Web Development and Software Engineering.
 - 🌱 Always eager to learn and explore new technologies.
@@ -18,7 +18,7 @@ I am a second-year Computer Science student at McMaster University, passionate a
 - 🚀 Software Engineering: Solving complex problems and creating efficient and scalable software solutions is something that excites me.
 
 ## My Skills
-[![SkillIcons](https://skillicons.dev/icons?i=py,c,cpp,cs,haskell,js,ts,html,css,nodejs,react,nextjs,tailwind,firebase,figma,ps)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=py,c,cpp,cs,haskell,js,ts,bash,html,css,nodejs,react,nextjs,tailwind,firebase,figma,ps)](https://skillicons.dev)<br/>
 
 ## My Projects
 
