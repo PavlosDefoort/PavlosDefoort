@@ -19,7 +19,7 @@ I am a second-year Computer Science student at McMaster University, passionate a
 - 🚀 Software Engineering: Solving complex problems and creating efficient and scalable software solutions is something that excites me.
 
 ## My Skills
-[![SkillIcons](https://skillicons.dev/icons?i=py,c,cpp,cs,haskell,js,ts,bash,html,css,nodejs,react,nextjs,tailwind,firebase,figma,ps)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=py,c,cpp,cs,haskell,js,ts,bash,html,css,nodejs,react,nextjs,tailwind,unreal,firebase,figma,ps)](https://skillicons.dev)<br/>
 
 ## My Projects
 
