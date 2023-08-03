@@ -8,6 +8,7 @@ I am a second-year Computer Science student at McMaster University, passionate a
 - 🔭 I’m currently working on a web based photo editor using Next.js
 - 💻 Interested in Web Development and Software Engineering.
 - 🌱 Always eager to learn and explore new technologies.
+- 😄 I enjoy applying concepts from linear algebra and calculus in coding projects to solve real-world problems.
 - ⚡ Fun fact: I also produce rap type-beats: https://www.beatstars.com/pavlosd
 - 🐧 Most importantly, I love Penguins!
   
