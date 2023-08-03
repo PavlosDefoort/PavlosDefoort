@@ -4,10 +4,11 @@ I am a second-year Computer Science student at McMaster University, passionate a
 
 ## About Me
 
-- 🎓 Studying Computer Science at McMaster University.
+- 🎓 Studying Computer Science at McMaster University🇨🇦.
 - 🔭 I’m currently working on a web based photo editor using Next.js
 - 💻 Interested in Web Development and Software Engineering.
 - 🌱 Always eager to learn and explore new technologies.
+- ⚡ Fun fact: I also produce rap type-beats: https://www.beatstars.com/pavlosd
 - 🐧 Most importantly, I love Penguins!
   
 
@@ -16,10 +17,13 @@ I am a second-year Computer Science student at McMaster University, passionate a
 - 🌐 Web Development: I enjoy building interactive and user-friendly web applications using modern technologies like React, Node.js, and Next.js
 - 🚀 Software Engineering: Solving complex problems and creating efficient and scalable software solutions is something that excites me.
 
+## My Skills
+[![SkillIcons](https://skillicons.dev/icons?i=py,c,cpp,cs,haskell,js,ts,html,css,nodejs,react,nextjs,tailwind,firebase,figma,ps)](https://skillicons.dev)<br/>
+
 ## My Projects
 
-- 🌟 [PhotoProX](https://github.com/PavlosDefoort/PhotoProX): A web based photo editor using Next.js
-- 🌟 [PenguMath](https://github.com/username/project2): A university maths quiz website built using React.js
+- 🌟 [PhotoProX](https://github.com/PavlosDefoort/PhotoProX): A web based photo editor built using Next.js 
+- 🌟 [PenguMath](https://github.com/username/project2): A university level maths quiz website built using React.js
 
 ## Get In Touch
 
