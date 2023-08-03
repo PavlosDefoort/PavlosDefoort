@@ -5,7 +5,7 @@ I am a second-year Computer Science student at McMaster University, passionate a
 ## About Me
 
 - 🎓 Studying Computer Science at McMaster University 🇨🇦.
-- 🔭 I’m currently working on a web based photo editor using Next.js
+- 🔭 I’m currently working on a [web based photo editor](https://github.com/PavlosDefoort/PhotoProX) using Next.js
 - 💻 Interested in Web Development and Software Engineering.
 - 🌱 Always eager to learn and explore new technologies.
 - 😄 I enjoy applying concepts from linear algebra and calculus in coding projects to solve real-world problems.
@@ -24,7 +24,7 @@ I am a second-year Computer Science student at McMaster University, passionate a
 ## My Projects
 
 - 🌟 [PhotoProX](https://github.com/PavlosDefoort/PhotoProX): A web based photo editor built using Next.js 
-- 🌟 [PenguMath](https://github.com/username/project2): A university level maths quiz website built using React.js
+- 🌟 [PenguMath](https://github.com/PavlosDefoort/pengu-math): A university level maths quiz website built using React.js
 
 ## Get In Touch
 
