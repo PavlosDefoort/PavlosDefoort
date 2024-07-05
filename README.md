@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Pavlos Defoort
 
-I am a second-year Computer Science student at McMaster University, passionate about web development and software engineering. Welcome to my GitHub profile!
+I am a third-year Computer Science student at McMaster University, passionate about web development and software engineering. Welcome to my GitHub profile!
 
 ## About Me
 
